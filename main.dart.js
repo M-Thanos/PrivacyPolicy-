@@ -56021,7 +56021,7 @@ fA(a){var s=null
 return new A.ch(B.y3,A.aie(A.b([A.dt("\u2022 ",A.cv(s,s,s,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),new A.yH(1,B.j1,A.dt(a,A.cv(s,s,s,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),s)],t.nA),B.aY,B.fF),s)}}
 A.zS.prototype={
 R(a){var s=null
-return new A.qA(new A.Ar(s),"Flutter Demo",A.a4D(s,A.a6z(B.M,s,s,B.BU),!0),s)}}
+return new A.qA(new A.Ar(s),"ملحمة جابر",A.a4D(s,A.a6z(B.M,s,s,B.BU),!0),s)}}
 A.b_.prototype={
 cf(a){var s=a.a,r=this.a,q=s[15]
 r.$flags&2&&A.a9(r)
